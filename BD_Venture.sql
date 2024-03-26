@@ -1,3 +1,5 @@
+#Banco de dados feito por Antônio dono deste perfil
+
 DROP DATABASE if exists bd_venture;
 
 create database IF NOT EXISTS BD_Venture;

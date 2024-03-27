@@ -1,4 +1,3 @@
-84% de armazenamento usado … Se você atingir o limite, não será possível criar, editar ou fazer upload de arquivos. Aproveite 100 GB de armazenamento por R$ 7,99 R$ 1,99 por mês, durante 3 meses.
 Link Krypton: https://github.com/Krypton-Suite/Standard-Toolkit.git
 Video caso tenha duvidas: https://youtu.be/FhS5w4hOKJU?si=aIZCQGcylGBI5sim]
 Até 1min 40seg <- Parte importante
